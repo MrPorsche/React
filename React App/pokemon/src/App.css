@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+App {
+  margin: 'auto';
+  width: 800;
+  padding-top: '1em';
+}
+
+.title {
+  text-align: center;
+}
